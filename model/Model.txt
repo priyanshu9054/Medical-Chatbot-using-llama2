@@ -1,0 +1,1 @@
+download lama models from meta's official website or from huggingface and download them in accordance of power your pc/laptop have to run them.
